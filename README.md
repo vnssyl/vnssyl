@@ -3,24 +3,19 @@
 I'm a biostatistics grad student interested in machine learning, health data science, and applied statistics.  
 I love turning messy real-world datasets into meaningful insights. 
 
-## 📂 Notable Projects
+### 📂 Notable Projects
 
-### 🧪 Simulation Study: Time-Dependent Covariates
+#### 🧪 Simulation Study: Time-Dependent Covariates
 Designed and ran a simulation study comparing survival models (Cox, RSF, GBST) under varying conditions using time-dependent covariates.  
 *Tools:* R, Python, survival analysis, ML
 
-### 📈 Drug Expenditure Forecasting
+#### 📈 Drug Expenditure Forecasting
 Time-series models (ARIMA, GBM) to forecast provincial Metformin costs, working with 990M+ claims records.  
 *Tools:* Python, PySpark
 
-### 📊 logiSense R Package
+#### 📊 logiSense R Package
 Built an R package to interpret logistic regression models, including interaction terms and multivariate outputs.  
 *Tools:* R, tidyverse
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/vanessa-y-liao)
-- [GitHub](https://github.com/vnssyl)
 
 Thanks for stopping by!
 
