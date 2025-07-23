@@ -3,7 +3,7 @@
 I'm a biostatistics grad student interested in machine learning, health data science, and applied statistics.  
 I love turning messy real-world datasets into meaningful insights. 
 
-### 📂 Notable Projects
+### 🕺 Greatest Hits
 
 #### 🧪 Simulation Study: Time-Dependent Covariates
 Designed and ran a simulation study comparing survival models (Cox, RSF, GBST) under varying conditions using time-dependent covariates.  
