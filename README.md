@@ -10,8 +10,8 @@ Designed and ran a simulation study comparing survival models (Cox, RSF, GBST) u
 *Tools:* R, Python, survival analysis, ML
 
 #### 📈 Drug Expenditure Forecasting
-Time-series models (ARIMA, GBM) to forecast provincial Metformin costs, working with 990M+ claims records.  
-*Tools:* Python, PySpark
+Time-series models (ARIMA, Prophet) to forecast provincial Metformin costs, working with 990M+ claims records. Project currently not available due to privacy, sorry :(
+*Tools:* Python, PySpark, statsmodels, Prophet
 
 #### 📊 logiSense R Package
 Built an R package to interpret logistic regression models, including interaction terms and multivariate outputs.  
