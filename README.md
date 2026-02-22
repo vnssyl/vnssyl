@@ -1,3 +1,4 @@
+<!--
 ## 👋 Hi, I'm Vanessa!
 
 I'm a biostatistics grad student interested in machine learning, health data science, and applied statistics.  
@@ -18,6 +19,7 @@ Built an R package to interpret logistic regression models, including interactio
 *Tools:* R, tidyverse
 
 Thanks for stopping by!
+-->
 
 <!--
 **vnssyl/vnssyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
